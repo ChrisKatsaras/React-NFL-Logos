@@ -7,6 +7,7 @@ const IND = props => {
     <svg
       width={size}
       height={size}
+      preserveAspectRatio="xMidYMid slice"
       viewBox="0 0 560 400"
       xmlns="http://www.w3.org/2000/svg"
       fillRule="evenodd"

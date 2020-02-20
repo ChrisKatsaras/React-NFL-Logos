@@ -7,6 +7,7 @@ const DAL = props => {
     <svg
       width={size}
       height={size}
+      preserveAspectRatio="xMidYMid slice"
       clipRule="evenodd"
       fillRule="evenodd"
       strokeLinejoin="round"

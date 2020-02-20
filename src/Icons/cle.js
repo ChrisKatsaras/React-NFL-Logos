@@ -7,6 +7,7 @@ const CLE = props => {
     <svg
       width={size}
       height={size}
+      preserveAspectRatio="xMidYMid slice"
       clipRule="evenodd"
       fillRule="evenodd"
       viewBox="0 0 560 400"
