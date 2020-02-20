@@ -2,7 +2,7 @@
 
 > React components for NFL team logos
 
-![image](https://user-images.githubusercontent.com/11506653/74900206-0a71eb00-536d-11ea-8317-245f4b82fa76.png)
+![image](https://user-images.githubusercontent.com/11506653/74900567-3f327200-536e-11ea-8dfa-dd1e2b61bd78.png)
 
 ## Install
 
