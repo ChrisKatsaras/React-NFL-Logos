@@ -1,5 +1,7 @@
 # React NFL Logos
 
+![npm](https://img.shields.io/npm/v/react-nfl-logos)
+
 > React components for NFL team logos
 
 ![image](https://user-images.githubusercontent.com/11506653/74900567-3f327200-536e-11ea-8dfa-dd1e2b61bd78.png)
