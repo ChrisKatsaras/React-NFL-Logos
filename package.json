@@ -1,6 +1,6 @@
 {
   "name": "react-nfl-logos",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React components for NFL team logos",
   "main": "dist/index.js",
   "scripts": {
