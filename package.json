@@ -19,7 +19,7 @@
   "author": "Christopher Katsaras",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^16.8.6"
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
