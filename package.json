@@ -2,7 +2,7 @@
   "name": "react-nfl-logos",
   "version": "1.0.3",
   "description": "React components for NFL team logos",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "rm -rf dist",
@@ -19,7 +19,7 @@
   "author": "Christopher Katsaras",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^16.8.6"
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
