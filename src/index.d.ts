@@ -36,5 +36,7 @@ export const PIT: Icon;
 export const SEA: Icon;
 export const SF: Icon;
 export const TB: Icon;
+export const TEN: Icon;
 export const WAS: Icon;
 export const NFL: Icon;
+
